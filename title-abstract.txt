@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+UCSD Mental HealthBot
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Given the academic rigor and stress associated with college life, there is a clear demand for mental health support among university students. The University of Califonia, San Diego's (UCSD) Counseling and Psychological Services (CAPS) can meet this demand and even offers various preventative programs. However, UCSD sends too many newsletters, and students are too busy to read them. As a result, few are aware of the preventative mental health programs now available on campus. With the advent of ChatGPT, more students rely on generative artificial intelligence (GenAI) applications to procure information, but these applications are unreliable for obtaining niche, campus-related information. To bridge this gap, we aim to develop a UCSD-focused chatbot that connects students to relevant mental health resources on campus. The large language model (LLM) our application uses is fed UCSD-specific information through a framework called Retrieval-Augmented Generation (RAG). Additionally, guardrails are implemented to prevent hallucinations and detect emergency crisis behavior among users.
